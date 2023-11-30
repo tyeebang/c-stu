@@ -1,0 +1,3 @@
+﻿  pointer.c
+C:\Users\user\Desktop\20113\pointer\pointer\pointer.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  pointer.vcxproj -> C:\Users\user\Desktop\20113\pointer\x64\Debug\pointer.exe
